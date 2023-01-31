@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/static/css/main.ff01921b.css",
+    "main.js": "/static/js/main.a79d4669.js",
+    "static/media/nitronft9.gif": "/static/media/nitronft9.ac743b2cf9ed93af10da.gif",
+    "static/media/nitronft10.png": "/static/media/nitronft10.d7954b4b9aa4938f2682.png",
+    "static/media/nitronft.png": "/static/media/nitronft.ccccb651e0a107c763ed.png",
+    "static/media/creator5.gif": "/static/media/creator5.b7be46d22b96b8a4cab6.gif",
+    "static/media/nitronft7.png": "/static/media/nitronft7.2c11a45002bbb5f14913.png",
+    "static/media/nitronft6.png": "/static/media/nitronft6.3f34e6df5d706fc92f13.png",
+    "static/media/nitronft5.png": "/static/media/nitronft5.f6a69508e29b3bffcbdd.png",
+    "static/media/nitronft1.png": "/static/media/nitronft1.5ae2959327da9075e7b1.png",
+    "static/media/nitronft2.png": "/static/media/nitronft2.22aba05907041bd5ca5a.png",
+    "static/media/nitronft3.png": "/static/media/nitronft3.5efabb13772efb184d09.png",
+    "static/media/nitronft4.png": "/static/media/nitronft4.bf1685a85b16bd25a433.png",
+    "static/media/nitronft8.png": "/static/media/nitronft8.2ceee0ed7bc29bfa34d3.png",
+    "static/media/creator1.png": "/static/media/creator1.21ba93796dd1062299b2.png",
+    "static/media/revicons.eot": "/static/media/revicons.a77de540a38981833f9e.eot",
+    "static/media/revicons.ttf": "/static/media/revicons.57fd05d4ae650374c8de.ttf",
+    "static/media/revicons.woff": "/static/media/revicons.e8746a624ed098489406.woff",
+    "index.html": "/index.html",
+    "main.ff01921b.css.map": "/static/css/main.ff01921b.css.map",
+    "main.a79d4669.js.map": "/static/js/main.a79d4669.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ff01921b.css",
+    "static/js/main.a79d4669.js"
+  ]
+}
